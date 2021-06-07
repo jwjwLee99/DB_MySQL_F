@@ -14,9 +14,9 @@ CREATE TABLE `author` (
 -- Dumping data for table `author`
 --
  
-INSERT INTO `author` VALUES (1,'jwLee','student');
-INSERT INTO `author` VALUES (2,'JWLee','student');
-INSERT INTO `author` VALUES (3,'JWJWLee','student');
+INSERT INTO `author` VALUES (1,'','');
+INSERT INTO `author` VALUES (2,'','');
+INSERT INTO `author` VALUES (3,'','');
  
 --
 -- Table structure for table `topic`
